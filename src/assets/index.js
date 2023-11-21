@@ -35,7 +35,7 @@ import firecart from "./firecart.png";
 import videostuff from "./videostuff.png";
 import techsg from "./techsg.png";
 import cryptoverse from "./cryptoverse.png";
-// import weather from "./weather.png";
+import sky from "./sky.jpg";
 import shopper from "./shopper.png";
 import blog from "./blog.png";
 
@@ -46,11 +46,11 @@ export {
   mobile,
   web,
   blog,
+  sky,
   techsg,
   github,
   menu,
   close,
-  weather,
   shopper,
   cryptoverse,
   css,

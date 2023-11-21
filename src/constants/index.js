@@ -28,7 +28,7 @@ import {
   videostuff,
   techsg,
   cryptoverse,
-  weather,
+  sky,
   shopper,
   blog,
 } from "../assets";
@@ -284,7 +284,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: weather,
+    image: sky,
     source_code_link: "https://github.com/Sujitgaikwad13/react-weather-app",
   },
   {
