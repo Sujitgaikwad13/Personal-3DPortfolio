@@ -35,7 +35,7 @@ import firecart from "./firecart.png";
 import videostuff from "./videostuff.png";
 import techsg from "./techsg.png";
 import cryptoverse from "./cryptoverse.png";
-import Weather from "./Weather.png";
+import weather from "./weather.png";
 import shopper from "./shopper.png";
 import blog from "./blog.png";
 
@@ -50,7 +50,7 @@ export {
   github,
   menu,
   close,
-  Weather,
+  weather,
   shopper,
   cryptoverse,
   css,
