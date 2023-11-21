@@ -31,6 +31,7 @@ import {
   sky,
   shopper,
   blog,
+  portfolio,
 } from "../assets";
 
 export const navLinks = [
@@ -329,6 +330,28 @@ const projects = [
     ],
     image: blog,
     source_code_link: "https://github.com/Sujitgaikwad13/My-Blog",
+  },
+  {
+    name: "Personal Portfolio",
+    description:
+      "Embark on a journey through my creative universe. As a React Developer with a passion for development, my portfolio is a visual narrative of innovation and expertise. From sleek designs to impactful projects, each piece reflects a dedication to blending aesthetics with functionality.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "green-text-gradient",
+      },
+      {
+        name: "three",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: portfolio,
+    source_code_link:
+      "https://github.com/adrianhajdin/project_3D_developer_portfolio",
   },
 ];
 

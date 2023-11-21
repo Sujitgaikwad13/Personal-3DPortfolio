@@ -38,11 +38,13 @@ import cryptoverse from "./cryptoverse.png";
 import sky from "./sky.jpg";
 import shopper from "./shopper.png";
 import blog from "./blog.png";
+import portfolio from "./portfolio.png";
 
 export {
   logo,
   backend,
   creator,
+  portfolio,
   mobile,
   web,
   blog,
