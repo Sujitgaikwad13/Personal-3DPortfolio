@@ -129,21 +129,12 @@ const experiences = [
     company_name: "Word Publishing",
     icon: wordPublishing,
     iconBg: "#E6DEDD",
-    date: "November 2021 - October 2022",
+    date: "November 2021 - Present",
     points: [
       "Conducted comprehensive testing of Adobe Illustrator to identify and address defects, resulting in a Bug catcher and Tester of the Month.",
       "Collaborated with cross-functional teams to develop and execute test plans for Adobe Illustrator.",
       "Executed Manual Testing, Integration testing, Regression testing, User Experience (UX) Testing to ensure the quality and reliability of Adobe Illustrator.",
       "Documented and reported software defects, working closely with developers to facilitate prompt resolution.",
-    ],
-  },
-  {
-    title: "React.js Developer",
-    company_name: "Word Publishing",
-    icon: wordPublishing,
-    iconBg: "#E6DEDD",
-    date: "November 2022 to Present",
-    points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
